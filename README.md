@@ -1,4 +1,4 @@
-# Chinese Novel Lookups
+# Media Lookups
 
 An Obsidian plugin that allows you to look up Chinese novels (and other books) by ISBN and automatically create markdown files with all relevant information.
 
