@@ -1,0 +1,13 @@
+{
+	"id": "chinese-novel-lookups",
+	"name": "Chinese Novel Lookups",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Look up Chinese novels by ISBN and create markdown files with book information",
+	"author": "Your Name",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
+
+
